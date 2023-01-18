@@ -9,7 +9,7 @@ function Header() {
       <nav>
         <Link href='/'>Home</Link>
         <Link href='/about'>About us</Link>
-        <Link href='/review'>Reviews</Link>
+        <Link href='/reviews'>Reviews</Link>
         <Link href='/burgers'>Burgers</Link>
       </nav>
     </header>
