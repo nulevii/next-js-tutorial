@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "name": "Cheaseburger",
+      "image": "/images/cheese.jpg",
+      "desc":
+        "A cheeseburger is a hamburger topped with cheese.",
+      "price": 110,
+      "id": "001"
+    },
+    {
+      "name": "Chicken Burger",
+      "image": "/images/chicken.jpg",
+      "desc": "Check out our best chicken burger recipes, from fried chicken burgers and Greek-style chicken burgers.",
+      "price": 150,
+      "id": "002"
+    },
+    {
+      "name": "Double Cheaseburger",
+      "image": "/images/double.jpg",
+      "desc": "A cheeseburger is a hamburger topped with cheese x2.",
+      "price": 200,
+      "id": "003"
+    }
+  ]
+}
